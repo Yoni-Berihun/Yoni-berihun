@@ -17,7 +17,7 @@ A passionate open-source contributor and lifelong learner.
 ### 🚀 About Me
 
 - 💡 Turning ideas into code and bringing concepts to life  
-- 💻 Currently exploring **C#**, strengthening my knowledge in **Java** and **C++**  
+- 💻 Currently exploring **Dart** and **C#**, strengthening my knowledge in **Java** and **C++**  
 - 📚 I love creating real-world projects to grow and challenge myself  
 - ✍️ Also interested in UI/UX and building clean developer experiences
 
@@ -26,12 +26,14 @@ A passionate open-source contributor and lifelong learner.
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter"/>
 </p>
 
 ---
@@ -48,14 +50,16 @@ A passionate open-source contributor and lifelong learner.
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yonatan-berihun">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/yonatan-berihun" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/yoni_berihun/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/yoni_berihun/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40" alt="Instagram"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:yonatanberihun1998@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40" alt="Gmail"/>
   </a>
 </p>
 
@@ -69,4 +73,3 @@ Feel free to reach out if you’d like to collaborate, connect, or just say hi!
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-

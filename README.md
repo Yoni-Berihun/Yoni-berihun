@@ -68,7 +68,7 @@ A passionate open-source contributor and lifelong learner.
 ### 📬 Reach Out
 
 Feel free to reach out if you’d like to collaborate, connect, or just say hi!  
-📫 **Email:** [yonatanberihun1998@gmail.com](mailto:yonatanberihun1998@gmail.com)
+📫 **Email:** [yonatanberihun1998@gmail.com](mailto:yonatanberihun26@gmail.com)
 
 ---
 

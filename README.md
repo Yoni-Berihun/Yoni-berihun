@@ -1,6 +1,8 @@
 <!-- README.md -->
 
-<h1 align="center">Hi there, I'm Yonatan Berihun! 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=👋+Hi+there%2C+I'm+Yonatan+Berihun!;🚀+Welcome+to+my+GitHub+profile!+🚀" alt="Typing SVG" />
+</p>
 
 <p align="center">
 🎓 Information Systems Student • 💻 Software Developer • 🌍 Ethiopia  
@@ -10,6 +12,8 @@ A passionate open-source contributor and lifelong learner.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yoni-Berihun&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Yoni-Berihun?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Yoni-Berihun?label=Stars&style=social" />
 </p>
 
 ---
@@ -43,6 +47,7 @@ A passionate open-source contributor and lifelong learner.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yoni-Berihun&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoni-Berihun&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yoni-Berihun&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---

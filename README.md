@@ -1,7 +1,11 @@
 <!-- README.md -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=👋+Hi+there%2C+I'm+Yonatan+Berihun!;🚀+Welcome+to+my+GitHub+profile!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=👋+Hi+there%2C+I'm+Yonatan+Berihun!;🚀+Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="assets/rocket.gif" alt="Rocket Launch Animation" width="200"/>
 </p>
 
 <p align="center">

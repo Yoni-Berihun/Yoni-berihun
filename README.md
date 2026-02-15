@@ -14,11 +14,15 @@
 A passionate open-source contributor and lifelong learner.
 </p>
 
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yoni-Berihun&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Yoni-Berihun?label=Followers&style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/stars/Yoni-Berihun?label=Stars&style=for-the-badge&color=yellow" />
 </p>
+
+---
 
 ---
 
@@ -52,14 +56,14 @@ A passionate open-source contributor and lifelong learner.
 ---
 
 
+
+
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yoni-Berihun&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoni-Berihun&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=Yoni-Berihun&theme=tokyonight" alt="GitHub Streak" height="180"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yoni-Berihun&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoni-Berihun&layout=compact&theme=tokyonight&langs_count=10)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Yoni-Berihun&theme=tokyonight)
 
-</p>
 
 ---
 
